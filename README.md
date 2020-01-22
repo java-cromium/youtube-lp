@@ -4,6 +4,8 @@ The project consisted on creating a replica of a YouTube landing page. We embedd
 
 screenshot
 
+Screen Shot 2020-01-22 at 02.17.13.png
+
 Additional description about the project and its features.
 
 Built With
@@ -14,7 +16,6 @@ Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
 Setup
 Install
 Usage
@@ -23,10 +24,10 @@ Deployment
 Authors
 
 👤 Author1
-Github: @https://github.com/Tahirbhalli
+Github: https://github.com/Tahirbhalli
 
 👤 Author2
-https://github.com/java
+Github: https://github.com/java
 
 🤝 Contributing
 Contributions, issues and feature requests are welcome!

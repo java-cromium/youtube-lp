@@ -4,7 +4,7 @@ The project consisted on creating a replica of a YouTube landing page. We embedd
 
 screenshot
 
-Screen Shot 2020-01-22 at 02.17.13.png
+https://github.com/java-cromium/youtube-lp/blob/youtube-replica-features/Screen%20Shot%202020-01-22%20at%2002.17.13.png
 
 Additional description about the project and its features.
 

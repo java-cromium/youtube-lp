@@ -1,4 +1,4 @@
-Project Name
+YouTube Replica Landing Page
 
 The project consisted on creating a replica of a YouTube landing page. We embedded a video with an iframe and used flex in order to better position the items in the screen. Included the user comments section as well as the video thumbnails as a sidebar element. Each video thumbnail is an image with a link (blank link).
 
